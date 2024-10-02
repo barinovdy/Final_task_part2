@@ -1,4 +1,4 @@
-# **Решение 1-5: **
+# **Решение 1-5:**
 **1.**
 dima@dima-linux:~$ mkdir Final_task_2
 dima@dima-linux:~$ cd Final_task_2
